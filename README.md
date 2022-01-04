@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://souvoce.netlify.app">voce</a></b>.
-    <br>I'm a Computer Engineering Undergraduate Student from Brasil.<br>
+    <br>Sou estudante de graduação em Engenharia da Computação no Brasil.<br>
 
 </samp>
 
@@ -13,13 +13,13 @@
 
 <details align="center">
 
-<summary> <b> <samp> Light bonfire </samp></b></summary>
+<summary> <b> <samp> Mais Informação </samp></b></summary>
 <samp>
  <b><h2 style="color: #fc6203">DEVELOPER</h2> </b>
 
 <img src="https://cdn.discordapp.com/emojis/907794542323957850.gif?size=96" width="200"/>
 
-Current Project: ñao
+Projeto atual: ñao
 
 <p align="center">
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/vocesoueu">
