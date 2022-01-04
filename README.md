@@ -1,16 +1,46 @@
-<h1 align = "center"> Hola 👋, soy voce </h1>
-<h3 align = "center"> Un desarrollador de frontend apasionado de la India </h3>
+<p align="center">
+  <br>
+  <samp>
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Tan</a></b>.
+    <br>I'm a Computer Engineering Undergraduate Student from Mexico.<br>
 
-<p align = "left"> <img src = " https://komarev.com/ghpvc/?username=vocesou&label=Profile%20views&color=0e75b6&style=flat "alt =" vocesou "/> </p>
+</samp>
 
-<p align =" left "> <a href =" https: / /github.com/ryo-ma/github-profile-trophy"><img src = "https://github-profile-trophy.vercel.app/?username=vocesou" alt = "vocesou" /> </ a > </p>
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
 
-<p align = "left"> <a href="https://twitter.com/vocesoueu" target="blank"> <img src = "https://img.shields.io/twitter / seguir / vocesoueu? logo = twitter &style = for-the-badge "alt =" vocesoueu "/> </a> </p>
-
-<h3 align =" left "> Conéctate conmigo: </h3>
-<p align =" left ">
-<a href="https://twitter.com/vocesoueu" target="blank"> <img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/twitter.svg "alt =" vocesoueu "height =" 30 "width =" 40 "/> </a>
 </p>
 
-<h3 align =" left "> Idiomas y Herramientas: </h3>
-<p align = "left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src = "https : //raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg "alt =" javascript "width =" 40 "height =" 40 "/> </a> <a href = "https://nodejs.org" target = "_ blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark .svg "alt =" nodejs "width =" 40 "height =" 40 "/> </a> <a href =" https://www.python.org "target =" _ blank "rel ="noreferrer "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg "alt =" python "width =" 40 "height =" 40 "/ > </a> </p>
+
+<details align="center">
+
+<summary> <b> <samp> Light bonfire </samp></b></summary>
+<samp>
+ <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
+
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
+
+Current Project: <a href="https://github.com/TanZng/dijkstras-shortest-path">Dijkstra's shortest path visualizer.</a>
+
+<p align="center">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/tania-r-zuniga/">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
+  &nbsp; &nbsp;
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/tanx_dev">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/twitter.png" width="30px" alt="Twitter"></a>
+  &nbsp; &nbsp;
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.hackerrank.com/tanx_dev">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hackerrank.png" width="30px" alt="HackerRank"></a>
+  &nbsp; &nbsp;
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://leetcode.com/tan_dev/">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/leetcode.png" width="30px" alt="LeetCode"></a>
+  &nbsp;
+  &nbsp;
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev/estus-flask">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/estus_flask.png" width="23px" alt="Secret"></a>
+</p> 
+
+
+</samp>
+</details>
+
+⭐️ From [TanZng](https://github.com/vocesou)
