@@ -6,7 +6,7 @@
 
 </samp>
 
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+  <img src="https://cdn.discordapp.com/emojis/926254035454029875.png?size=96" width="200"/>
 
 </p>
 
