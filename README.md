@@ -17,7 +17,7 @@
 <samp>
  <b><h2 style="color: #fc6203">DEVELOPER</h2> </b>
 
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
+<img src="https://cdn.discordapp.com/emojis/907794542323957850.gif?size=96" width="200"/>
 
 Current Project: ñao
 
