@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://souvoce.netlify.app">voce</a></b>.
-    <br>I'm a Computer Engineering Undergraduate Student from Mexico.<br>
+    <br>I'm a Computer Engineering Undergraduate Student from Brasil.<br>
 
 </samp>
 
@@ -15,11 +15,11 @@
 
 <summary> <b> <samp> Light bonfire </samp></b></summary>
 <samp>
- <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
+ <b><h2 style="color: #fc6203">DEVELOPER</h2> </b>
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
-Current Project: <a href="https://github.com/TanZng/dijkstras-shortest-path">Dijkstra's shortest path visualizer.</a>
+Current Project: ñao
 
 <p align="center">
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/vocesoueu">
