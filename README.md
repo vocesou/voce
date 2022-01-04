@@ -6,7 +6,11 @@
 
 </samp>
 
-  <img src="https://cdn.discordapp.com/emojis/926254035454029875.png?size=96" width="200"/>
+  <div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+  </div>
 
 </p>
 
