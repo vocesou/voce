@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://souvoce.netlify.app">voce</a></b>.
+    I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://souvoce.netlify.app">voce</a></b>.
     <br>Sou estudante de graduação em Engenharia da Computação no Brasil.<br>
 
 </samp>
